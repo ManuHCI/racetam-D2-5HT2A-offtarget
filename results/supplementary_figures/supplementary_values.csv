@@ -1,0 +1,7 @@
+receptor,drug,SASA_A2_mean,SASA_drift_A2,Rg_A_mean,Rg_drift_A,RMSF_A_mean,polar_contacts_mean
+D2,levetiracetam,15516.0,190.0,20.36,0.002,4.68,1.2
+D2,brivaracetam,15329.0,292.0,20.2,0.121,4.78,1.44
+D2,piracetam,15194.0,-2.0,20.25,-0.087,5.63,1.63
+5-HT2A,levetiracetam,16146.0,-254.0,20.85,-0.054,4.81,1.41
+5-HT2A,brivaracetam,15718.0,-54.0,20.72,0.015,5.74,1.42
+5-HT2A,piracetam,15899.0,157.0,20.78,0.077,4.96,1.5

@@ -1,0 +1,7 @@
+receptor,anchor,drug,replicate_1,replicate_2,replicate_3,mean,sd
+D2,Asp114,levetiracetam,85.3,66.6,13.0,55.0,37.5
+D2,Asp114,brivaracetam,1.0,0.6,0.0,0.5,0.5
+D2,Asp114,piracetam,87.7,57.8,84.6,76.7,16.4
+5-HT2A,Asp155,levetiracetam,48.2,27.1,1.8,25.7,23.3
+5-HT2A,Asp155,brivaracetam,38.8,91.4,7.2,45.8,42.5
+5-HT2A,Asp155,piracetam,20.2,10.6,95.4,42.1,46.5

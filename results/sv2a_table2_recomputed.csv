@@ -1,0 +1,4 @@
+ligand,production_ns,ligand_rmsd_A,binding_site_ca_rmsd_A,whole_protein_ca_rmsd_A,min_lig_prot_dist_A,contact_pct
+levetiracetam,100.0,0.68,0.69,1.91,1.85,100
+brivaracetam,50.0,1.39,0.96,2.03,1.92,100
+piracetam,50.0,0.91,0.78,1.98,1.82,100

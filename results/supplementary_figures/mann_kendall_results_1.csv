@@ -1,0 +1,19 @@
+receptor,drug,replicate,trajectory,MK_trend,MK_p_value,significant
+D2,levetiracetam,1,day12_production.dcd,no trend,0.0763,False
+D2,levetiracetam,2,day12_production_rep2.dcd,no trend,0.7545,False
+D2,levetiracetam,3,day12_production_rep3.dcd,increasing,0.0286,True
+D2,brivaracetam,1,day14_briv_production.dcd,no trend,0.0763,False
+D2,brivaracetam,2,day14_briv_production_rep2.dcd,no trend,0.2515,False
+D2,brivaracetam,3,day14_briv_production_rep3.dcd,no trend,0.2515,False
+D2,piracetam,1,day18_pira_production.dcd,no trend,0.4655,False
+D2,piracetam,2,day18_pira_production_rep2.dcd,no trend,0.7545,False
+D2,piracetam,3,day18_pira_production_rep3.dcd,no trend,0.1753,False
+5-HT2A,levetiracetam,1,ht2a_lev_production.dcd,no trend,0.4655,False
+5-HT2A,levetiracetam,2,ht2a_lev_production_rep2.dcd,no trend,0.0763,False
+5-HT2A,levetiracetam,3,ht2a_lev_production_rep3.dcd,no trend,0.6022,False
+5-HT2A,brivaracetam,1,ht2a_brv_production.dcd,no trend,0.3481,False
+5-HT2A,brivaracetam,2,ht2a_brv_production_rep2.dcd,no trend,1.0000,False
+5-HT2A,brivaracetam,3,ht2a_brv_production_rep3.dcd,no trend,1.0000,False
+5-HT2A,piracetam,1,ht2a_pir_production.dcd,no trend,0.2515,False
+5-HT2A,piracetam,2,ht2a_pir_production_rep2.dcd,no trend,0.3481,False
+5-HT2A,piracetam,3,ht2a_pir_production_rep3.dcd,no trend,1.0000,False
